@@ -3,9 +3,9 @@ Fast computation of cross-mutual information function (CMIF) in the frequency do
 
 ---
 
-This aims to be a faithful implementation of [1], in well commented and clean MATLAB.
+This aims to be a faithful implementation of [1], in well commented and clean MATLAB code.
 See example in the 'help' text for usage instructions.
-Code is reasonabl fast, if not using too many quantization levels. 
+Code is reasonably fast, if not using too many quantization levels. 
 If you find it useful, please cite [1].
 
 A more optimized python implementation can be found here: https://github.com/MIDA-group/globalign
